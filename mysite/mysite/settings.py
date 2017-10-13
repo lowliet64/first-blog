@@ -25,7 +25,7 @@ SECRET_KEY = 'pqai&%o)6!vw3v1c851g7kw%nwmcnxn!e0@je_pn2*i84!8ne4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','kadu.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','lowliet64pythonanywhere.com']
 
 
 # Application definition
